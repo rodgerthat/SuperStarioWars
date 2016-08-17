@@ -1,0 +1,229 @@
+{ "frames": {
+   "Stario_StarJumper_SpriteSheet 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 1.ase": {
+    "frame": { "x": 38, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 2.ase": {
+    "frame": { "x": 76, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 3.ase": {
+    "frame": { "x": 114, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 4.ase": {
+    "frame": { "x": 152, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 5.ase": {
+    "frame": { "x": 190, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 6.ase": {
+    "frame": { "x": 228, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 7.ase": {
+    "frame": { "x": 266, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 8.ase": {
+    "frame": { "x": 304, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 9.ase": {
+    "frame": { "x": 342, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 10.ase": {
+    "frame": { "x": 380, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 11.ase": {
+    "frame": { "x": 418, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 12.ase": {
+    "frame": { "x": 456, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 13.ase": {
+    "frame": { "x": 494, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 14.ase": {
+    "frame": { "x": 532, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 15.ase": {
+    "frame": { "x": 570, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 16.ase": {
+    "frame": { "x": 608, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 17.ase": {
+    "frame": { "x": 646, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 18.ase": {
+    "frame": { "x": 684, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 19.ase": {
+    "frame": { "x": 722, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 20.ase": {
+    "frame": { "x": 760, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 21.ase": {
+    "frame": { "x": 798, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 22.ase": {
+    "frame": { "x": 836, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   },
+   "Stario_StarJumper_SpriteSheet 23.ase": {
+    "frame": { "x": 874, "y": 0, "w": 38, "h": 56 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 56 },
+    "sourceSize": { "w": 38, "h": 56 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.1.7",
+  "image": "/home/goat/WebstormProjects/SuperStarioWars/resources/Stario_StarJumper_SpriteSheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 912, "h": 56 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "WalkRight", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "SkidLeft", "from": 4, "to": 4, "direction": "forward" },
+   { "name": "Run", "from": 5, "to": 8, "direction": "forward" },
+   { "name": "RunJump", "from": 9, "to": 9, "direction": "forward" },
+   { "name": "Jump", "from": 10, "to": 10, "direction": "forward" },
+   { "name": "Crouch", "from": 11, "to": 14, "direction": "forward" },
+   { "name": "Crouch", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "Crouch", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "Crouch", "from": 11, "to": 11, "direction": "forward" },
+   { "name": "WalkLeft", "from": 12, "to": 15, "direction": "forward" },
+   { "name": "WalkLeft", "from": 12, "to": 15, "direction": "forward" },
+   { "name": "WalkLeft", "from": 12, "to": 15, "direction": "forward" },
+   { "name": "SkidRight", "from": 16, "to": 16, "direction": "forward" },
+   { "name": "RunLeft", "from": 17, "to": 20, "direction": "forward" },
+   { "name": "RunLeft", "from": 17, "to": 23, "direction": "forward" },
+   { "name": "JumpLeft", "from": 21, "to": 23, "direction": "forward" },
+   { "name": "CrouchLeft", "from": 22, "to": 23, "direction": "forward" },
+   { "name": "JumpLeft", "from": 23, "to": 23, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "BG", "opacity": 255, "blendMode": "normal" },
+   { "name": "Stario", "opacity": 255, "blendMode": "normal" },
+   { "name": "6-2Aug2 ", "opacity": 255, "blendMode": "normal" },
+   { "name": "Handz", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
