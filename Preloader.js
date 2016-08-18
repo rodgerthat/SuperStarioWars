@@ -24,22 +24,38 @@ BasicGame.Preloader.prototype = {
 
 		//	Here we load the rest of the assets our game needs.
 		//	As this is just a Project Template I've not provided these assets, swap them for your own.
-		this.load.image('titlepage', 'images/title.jpg');
-		this.load.atlas('playButton', 'images/play_button.png', 'images/play_button.json');
-		this.load.audio('titleMusic', ['audio/main_menu.mp3']);
-		this.load.bitmapFont('caslon', 'fonts/caslon.png', 'fonts/caslon.xml');
+		this.load.image('titlepage', 'assets/backgrounds/SuperStarioWars_MainTitle.png');
+		this.load.image('play_btn', 'assets/titles/play_btn.png');
+		//this.load.atlas('playButton', 'images/play_button.png', 'images/play_button.json');
+		//TODO: add tunes, man
+		//this.load.audio('titleMusic', ['audio/main_menu.mp3']);
+		//this.load.bitmapFont('caslon', 'fonts/caslon.png', 'fonts/caslon.xml');
+
 		//	+ lots of other required assets here
+		// heeeeere we goooooo
+
+		this.load.image('sky', 'assets/backgrounds/sky.png');
+		this.load.image('ground', 'assets/tiles/platform.png');
+		this.load.image('star', 'assets/mobs/star.png');
+		//game.load.spritesheet('dude', 'assets/players/dude.png', 32, 48);
+		//game.load.atlas('mario', 'assets/mario_skywalker_texture_atlas.png', 'assets/mario_skywalker_texture_atlas.json');
+		//game.load.atlas('player', 'assets/players/stario/Stario_StarJumper_SpriteSheet.png', 'assets/Stario_StarJumper_SpriteSheet.json', Phaser.Loader.TEXTURE_ATLAS_JSON_HASH);
+		this.load.spritesheet('player', 'assets/players/stario/Stario_StarJumper_SpriteSheet.png', 28, 56 );
+		this.load.image('6-2Aug2', 'assets/players/stario/6-2Aug2.png');
+		this.load.image('bullet', 'assets/players/stario/Sally-Slug.png');
 
 	},
 
 	create: function () {
 
 		//	Once the load has finished we disable the crop because we're going to sit in the update loop for a short while as the music decodes
-		this.preloadBar.cropEnabled = false;
+		//this.preloadBar.cropEnabled = false;
+
+        this.state.start('MainMenu');
 
 	},
 
-	update: function () {
+	//update: function () {
 
 		//	You don't actually need to do this, but I find it gives a much smoother game experience.
 		//	Basically it will wait for our audio file to be decoded before proceeding to the MainMenu.
@@ -49,13 +65,14 @@ BasicGame.Preloader.prototype = {
 		
 		//	If you don't have any music in your game then put the game.state.start line into the create function and delete
 		//	the update function completely.
-		
-		if (this.cache.isSoundDecoded('titleMusic') && this.ready == false)
-		{
-			this.ready = true;
-			this.state.start('MainMenu');
-		}
 
-	}
+		//if (this.cache.isSoundDecoded('titleMusic') && this.ready == false)
+		//{
+		//	this.ready = true;
+		//	this.state.start('MainMenu');
+		//}
+
+
+	//}
 
 };

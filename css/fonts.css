@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'c64';
+    src: url('../assets/fonts/CommodorePixelized_v1.2.ttf');
+    format('truetype');
+}
+
+body {
+    font-family: 'c64';
+    background: #000;
+}
+
+.fontLoader {
+    position: absolute;
+    left: -1000px;
+}
